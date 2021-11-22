@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropdown</name>
+   <tag></tag>
+   <elementGuidId>f5dbac91-a47b-4a24-8c0e-539e87bfb016</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p-dropdown/div/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-dropdown-trigger-icon.ng-tns-c87-35.pi.pi-chevron-down</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-dropdown-trigger-icon ng-tns-c87-35 pi pi-chevron-down</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/main[@class=&quot;page-container ng-star-inserted&quot;]/div[@class=&quot;main-inner&quot;]/section[@class=&quot;page-section&quot;]/app-profile[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;inner-container-max-800&quot;]/app-billing-information[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;app-shipbill-information&quot;]/p-card[1]/div[@class=&quot;p-card p-component&quot;]/div[@class=&quot;p-card-body&quot;]/div[@class=&quot;p-card-content&quot;]/app-skeletonwrapper[1]/div[@class=&quot;skeleton-wrapper none&quot;]/div[@class=&quot;app-edit-container&quot;]/form[@class=&quot;ng-invalid ng-dirty ng-touched&quot;]/div[@class=&quot;p-grid&quot;]/div[@class=&quot;p-col&quot;]/div[@class=&quot;p-inputgroup form-field-control mb15&quot;]/span[@class=&quot;p-float-label form-field-label&quot;]/p-dropdown[@class=&quot;ng-tns-c87-35 ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;ng-tns-c87-35 p-dropdown p-component&quot;]/div[@class=&quot;p-dropdown-trigger ng-tns-c87-35&quot;]/span[@class=&quot;p-dropdown-trigger-icon ng-tns-c87-35 pi pi-chevron-down&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-dropdown/div/div[2]/span</value>
+   </webElementXpaths>
+</WebElementEntity>

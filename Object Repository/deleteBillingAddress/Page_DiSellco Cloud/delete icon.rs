@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>delete icon</name>
+   <tag></tag>
+   <elementGuidId>ea015ddb-57be-46d5-84b1-675ee000d4bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/app-root/main/div/section/app-profile/div/app-billing-information/div/p-card/div/div/div[2]/app-skeletonwrapper/div/p-table/div/div/table/tbody/tr[1]/td[4]/p-button[2]/button/span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.pi.pi-trash.p-button-icon.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pi pi-trash p-button-icon ng-star-inserted</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/main[@class=&quot;page-container ng-star-inserted&quot;]/div[@class=&quot;main-inner&quot;]/section[@class=&quot;page-section&quot;]/app-profile[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;inner-container-max-800&quot;]/app-billing-information[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;app-shipbill-information&quot;]/p-card[1]/div[@class=&quot;p-card p-component&quot;]/div[@class=&quot;p-card-body&quot;]/div[@class=&quot;p-card-content&quot;]/app-skeletonwrapper[1]/div[@class=&quot;skeleton-wrapper none&quot;]/p-table[@class=&quot;profile-theme-table table-sortable&quot;]/div[@class=&quot;p-datatable p-component&quot;]/div[@class=&quot;p-datatable-wrapper ng-star-inserted&quot;]/table[1]/tbody[@class=&quot;p-datatable-tbody&quot;]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;table-action&quot;]/p-button[@class=&quot;p-button-rounded p-button-danger p-button p-component p-button-icon-only top-6&quot;]/button[@class=&quot;p-button p-component p-button-icon-only p-ripple&quot;]/span[@class=&quot;pi pi-trash p-button-icon ng-star-inserted&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/p-button[2]/button/span</value>
+   </webElementXpaths>
+</WebElementEntity>
